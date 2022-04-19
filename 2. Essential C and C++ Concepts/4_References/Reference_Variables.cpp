@@ -1,3 +1,4 @@
+//Reference are only supported in C++ and not C
 #include<iostream>
 //using namespace std;
 using std::cout;
