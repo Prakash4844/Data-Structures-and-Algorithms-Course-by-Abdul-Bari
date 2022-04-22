@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"xlocale": "cpp",
+			"xstring": "cpp",
+			"4_passing_array_part_of_structure_by_val": "cpp"
+		}
+	}
 }
