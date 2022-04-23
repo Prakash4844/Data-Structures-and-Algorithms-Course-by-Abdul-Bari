@@ -7,7 +7,6 @@ This Course Has Covered Chapters:
 1. Before we Start
 
    1. [X] INTRODUCTION.MD
-
 2. Essential C and C++ Concepts1_Array
 
    1. [X] 1_Array
@@ -19,7 +18,7 @@ This Course Has Covered Chapters:
    7. [X] 7_Parameter_Passing_Methods
    8. [X] 8_Array_as_Parameters
    9. [X] 9_Structure_as_Parameters
-   1. [ ] 10_Structures and Functions
-   1. [ ] 11_Converting a C program to a C++ class
+   1. [X] 10_Structures and Functions
+   1. [X] 11_Converting a C program to a C++ class
    1. [ ] 12_C++ Class and Constructor
    1. [ ] 13_Template classes
