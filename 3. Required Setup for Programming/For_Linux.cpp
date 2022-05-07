@@ -1,0 +1,1 @@
+//Follow This Documentation gcc in Linux: https://code.visualstudio.com/docs/cpp/config-linux
