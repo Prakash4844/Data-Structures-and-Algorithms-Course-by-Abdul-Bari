@@ -7,6 +7,8 @@ This Course Has Covered Chapters:
 1. Before we Start
    01. [X] INTRODUCTION.MD
 2. Essential C and C++ Concepts1_Array
+
+   00. [X] 0_Questions
    01. [X] 1_Array
    02. [X] 2_Structures
    03. [X] 3_Pointers
